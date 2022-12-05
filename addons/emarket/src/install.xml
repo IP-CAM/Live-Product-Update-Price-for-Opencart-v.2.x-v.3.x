@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+<insertfile>_inc/summary0.txt</insertfile>
+-->
+
+<modification>
+	<name>#ocmod.space: <insertvar>MODCODE</insertvar></name>
+	<code><insertvar>MODFILE</insertvar></code>
+	<version><insertvar>MODVERS</insertvar></version>
+	<author><insertvar>AUTHOR</insertvar></author>
+	<link><insertvar>XMLLINK</insertvar></link>
+
+	<file path="catalog/view/theme/{so-emarket,so-mobile}/template/product/product.twig" error="log">
+		<operation error="log" info="">
+			<search>
+				<![CDATA[ajax_price()]]>
+			</search>
+			<add position="replace">
+				<![CDATA[// ajax_price();]]>
+			</add>
+		</operation>
+	</file>
+
+</modification>
