@@ -1,4 +1,4 @@
-# Live Product|eMarket
+# Live Product|Magentech
 
 ## Description
-An addon to link the Live Product module with the eMarket template
+An addon to connect the **Live Product** module with [magentech](https://themeforest.net/user/magentech) themes.
