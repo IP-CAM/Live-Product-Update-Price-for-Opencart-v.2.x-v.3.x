@@ -20,15 +20,15 @@ Compatible with OpenCart versions 2.2.x-3.x.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_product)
-* [Front](http://ocmod.freevar.com/oc3020/b)
+[Admin](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_product)  
+[Front](http://ocmod.freevar.com/oc3020/b)  
 
 ## Download
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
+[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
 
 ## Related extensions
-* [Live Product](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005).
-* [Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) - allows to use the equal sign as a prefix.
-* [Equal Sign|Journal](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38532) - allows to use the equal sign on the Journal template.
-* [Enhanced Options](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) - allows to apply product special offers and discounts to its options.
-* [Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) - apply percentage special offers to products those linked to a specified categories or manufacturers.
+[Live Product](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005).  
+[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) - allows to use the equal sign as a prefix.  
+[Equal Sign|Journal](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38532) - allows to use the equal sign on the Journal template.  
+[Enhanced Options](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) - allows to apply product special offers and discounts to its options.  
+[Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) - apply percentage special offers to products those linked to a specified categories or manufacturers.  
