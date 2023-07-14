@@ -15,7 +15,7 @@ Compatible with OpenCart versions 2.2.x-3.x.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* Module [settings](https://ocmod.space/a/admin/index.php?route=extension/module/live_product).
+* Module [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/live_product).
 * [Product page](https://demo.ocmod.space/a/apple/apple-cinema).
 
 ## Links
