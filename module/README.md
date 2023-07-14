@@ -19,7 +19,7 @@ Compatible with OpenCart versions 2.2.x-3.x.
 * [Product page](https://demo.ocmod.space/a/apple/apple-cinema).
 
 ## Links
-* [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) on [**OpenCart Marketplace**].
+* [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) on **OpenCart Marketplace**.
 * [**Live Product**](https://www.ocmod.space/live-product) web page.
 
 ## Related extensions

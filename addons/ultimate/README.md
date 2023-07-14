@@ -24,7 +24,7 @@ Compatible with OpenCart versions 2.2.x-3.x.
 
 
 ## Links
-* [**Live Product|Ultimate**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) on [**OpenCart Marketplace**].
+* [**Live Product|Ultimate**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) on **OpenCart Marketplace**.
 * [**Live Product|Ultimate**](https://www.ocmod.space/live-product--ultimate) web page.
 
 ## Related extensions
