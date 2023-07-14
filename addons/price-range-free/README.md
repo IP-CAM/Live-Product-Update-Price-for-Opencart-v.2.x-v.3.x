@@ -1,4 +1,4 @@
 # Live Product|Price Range Free
 
 ## Description
-An addon to connect modules **Live Product** and **Price Range Free**.
+Compatibility with the [**Price Range Free**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33220) module.

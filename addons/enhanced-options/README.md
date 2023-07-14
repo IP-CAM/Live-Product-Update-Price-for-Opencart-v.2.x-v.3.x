@@ -1,4 +1,4 @@
 # Live Product|Enhanced Options
 
 ## Description
-An addon to connect modules **Live Product** and **Enhanced Options**.
+Compatibility with the [**Enhanced Options**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) module.

@@ -1,5 +1,4 @@
-# Live Product|Journal3
+# Live Product|Journal
 
 ## Description
-An addon to connect module **Live Product** and **Journal 3** themplate.
-
+Compatibility with the **Journal** theme.

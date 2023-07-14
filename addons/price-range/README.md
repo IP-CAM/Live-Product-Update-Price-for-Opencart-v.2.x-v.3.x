@@ -1,4 +1,4 @@
 # Live Product|Price Range
 
 ## Description
-An addon to connect modules **Live Product** and **Price Range**.
+Compatibility with the [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module.
