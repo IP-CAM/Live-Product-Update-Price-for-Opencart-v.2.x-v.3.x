@@ -1,12 +1,12 @@
 # Live Product
 
 ## Description
-**Live Product** is an OpenCart extension that allows to dynamically update price on the product page when a customer select product options and quantity.
+**Live Product** is an OpenCart extension that allows to live update product price on the product page when a customer selects the product options and quantity.  
 [Read more...](./module/README.md)
 
-**Live Product|Ultimate** is an enhanced version of the **Live Product** extension.
+**Live Product|Ultimate** is an advanced version of the **Live Product**.  
 [Read more...](./addons/ultimate/README.md)
 
-## Download
-[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)
-[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
+## Links
+* [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) and [**Live Product|Ultimate**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) on [**OpenCart Marketplace**].
+* [**Live Product**](https://www.ocmod.space/live-product) and [**Live Product|Ultimate**](https://www.ocmod.space/live-product--ultimate) web pages.

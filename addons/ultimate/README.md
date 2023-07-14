@@ -1,34 +1,34 @@
 # Live Product|Ultimate
 
 ## Description
-**Live Product|Ultimate** is an OpenCart extension that allows to update the price on the product page in real time based on the selected product options or quantity. It is an enhanced version of the **Live Product** extension.
+**Live Product|Ultimate** is an OpenCart extension that allows to update the price on the product page in real time based on the selected product options or quantity. This is an andvanced version of the **Live Product** extension.  
 Compatible with OpenCart versions 2.2.x-3.x.
 
 ## Features
-* Updates the price on the product page in real time based on selected product options or quantity.
-* Displays additional product and options info:
+* Product price live update depending on selected options and quantity.
+* Additional product and options information:
   - full option prices (i.e, base price +/- option price).
-  - option weight, points and in stock quantity
-  - total weight of product and its selected options.
+  - option weight, points and available quantity.
+  - total weight of product and selected options.
   - reward points amount.
-* Can hide product ex-tax price.
-* Can hide product option prices.
-* Allow to display custom text for products with no base price (e.g., "Select options").
-* Compatible with the [Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
-* Compatible with the "Journal 3" template.
-* Using OC cache for better perfomance.
+* Hide product option prices.
+* Hide product ex-tax prices.
+* Custom message for products with no base prices (e.g., "Select options").
+* [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension compatibility.
+* **Journal** theme compatibility (see related [addon](../journal)).
 * Does not modify system files (OCMOD).
 
 ## Live demo
-[Admin](http://ocmod.freevar.com/oc3020/b/admin/index.php?route=extension/module/live_product)  
-[Front](http://ocmod.freevar.com/oc3020/b)  
+* Module [settings](https://ocmod.space/b/admin/index.php?route=extension/module/live_product).
+* [Product page](https://demo.ocmod.space/b/apple/apple-cinema).
 
-## Download
-[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)
+
+## Links
+* [**Live Product|Ultimate**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) on [**OpenCart Marketplace**].
+* [**Live Product|Ultimate**](https://www.ocmod.space/live-product--ultimate) web page.
 
 ## Related extensions
-[Live Product](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005).  
-[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) - allows to use the equal sign as a prefix.  
-[Equal Sign|Journal](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38532) - allows to use the equal sign on the Journal template.  
-[Enhanced Options](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) - allows to apply product special offers and discounts to its options.  
-[Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) - apply percentage special offers to products those linked to a specified categories or manufacturers.  
+* Use the equals prefix in product options with the [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
+* Apply product special and discounts to its options, define [i]flat-pricing[/i] options, that are charged once regardless of product quantity, and more with the [**Enhanced Options**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) module.
+* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module allows customers to see the minimum and maximum price of product with options.
+* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the [**Enhanced Specials**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) module.

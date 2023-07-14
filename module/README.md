@@ -1,29 +1,29 @@
 # Live Product
 
 ## Description
-**Live Product** is an OpenCart extension that allows to dynamically update price on the product page when a customer select product options and quantity.
+**Live Product** is an OpenCart extension that allows to dynamically update price on the product page when a customer select product options and quantity.  
 Compatible with OpenCart versions 2.2.x-3.x.
 
 ## Features
-* Updates the price on the product page in real time based on selected product options or quantity.
-* Display full option prices instead of using +/- prefixes.
-* Can hide product option prices.
-* Can hide product ex-tax price.
-* Allow to display custom text for products with no base price (e.g., "Select options")
-* Compatible with the [Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
-* Compatible with the Journal 3 template (see related [addon](../addons/journal)).
+* Product price live update depending on selected options and quantity.
+* Display full option prices instead of show price prefixes.
+* Hide product option prices.
+* Hide product ex-tax prices.
+* Custom message for products with no base prices (e.g., "Select options").
+* [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension compatibility.
+* **Journal** theme compatibility (see related [addon](../addons/journal)).
 * Does not modify system files (OCMOD).
 
 ## Live demo
-[Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/live_product)  
-[Front](http://ocmod.freevar.com/oc3020/a)  
+* Module [settings](https://ocmod.space/a/admin/index.php?route=extension/module/live_product).
+* [Product page](https://demo.ocmod.space/a/apple/apple-cinema).
 
-## Download
-[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36005)
+## Links
+* [**Live Product**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=44968) on [**OpenCart Marketplace**].
+* [**Live Product**](https://www.ocmod.space/live-product) web page.
 
 ## Related extensions
-[Live Product|Ultimate](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) - enhanced version of **Live Product**.  
-[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) - add the equal sign as an prefix of product options.  
-[Equal Sign|Journal](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38532) - add the equal sign as an prefix of product options to the Journal template.  
-[Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) - apply percentage special offers to products those linked to a specified categories or manufacturers.  
-[Enhanced Options](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) - apply a product special prices and discounts to the product options.  
+* Use the equals prefix in product options with the [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
+* Apply product special and discounts to its options, define [i]flat-pricing[/i] options, that are charged once regardless of product quantity, and more with the [**Enhanced Options**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) module.
+* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module allows customers to see the minimum and maximum price of product with options.
+* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the [**Enhanced Specials**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) module.
