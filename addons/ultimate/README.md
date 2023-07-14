@@ -1,7 +1,7 @@
 # Live Product|Ultimate
 
 ## Description
-**Live Product|Ultimate** is an OpenCart extension that allows to live update prices on the product page when a customer selects the product options and quantity. This is an andvanced version of the **Live Product** extension.  
+**Live Product|Ultimate** is an OpenCart extension that allows to live update prices on the product page when a customer selects the product options and quantity. This is an advanced version of the **Live Product** extension.  
 Compatible with OpenCart versions 2.2.x-3.x.
 
 ## Features
