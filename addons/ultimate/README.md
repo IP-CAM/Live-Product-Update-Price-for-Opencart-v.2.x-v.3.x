@@ -20,8 +20,8 @@ Compatible with OpenCart versions 2.2.x-3.x.
 
 ## Live demo
 * Module [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/live_product).
-* [Product](https://demo.ocmod.space/a/apple-cinema) with multi-options.
-* [Product](https://demo.ocmod.space/a/iphone) with discounts.
+* [Product](https://demo.ocmod.space/b/apple-cinema) with multi-options.
+* [Product](https://demo.ocmod.space/b/iphone) with discounts.
 
 
 ## Links
