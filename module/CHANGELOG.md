@@ -1,5 +1,11 @@
 # Change log
 
+## [3.5.2] - 2023.07.29:
+### Fixed
+- Display of saved text options in OC 2.x versions.
+### Internal
+- Minor code improvements.
+
 ## [3.5.1] - 2022.12.01:
 ### Internal
 - Code improvements.

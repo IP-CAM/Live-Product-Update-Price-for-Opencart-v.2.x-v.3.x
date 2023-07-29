@@ -1,5 +1,9 @@
 # Change log
 
+## [3.5.2] - 2023.07.29:
+### Fixed
+- Show weight and points in multi-optional products.
+
 ## [3.5.1] - 2022.12.01:
 ### Internal
 - Code improvements
