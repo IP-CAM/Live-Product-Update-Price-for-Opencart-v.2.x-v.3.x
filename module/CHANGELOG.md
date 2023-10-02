@@ -1,8 +1,18 @@
 # Change log
 
+## [3.6.0] - 2023.10.01:
+### Fixed
+- Discount highlight.
+- Empty price placehoder.
+- Minor bugs.
+### Removed
+- Redundant id's.
+### Internal
+- Code improvements.
+
 ## [3.5.2] - 2023.07.29:
 ### Fixed
-- Display of saved text options in OC 2.x versions.
+- Display module text options in OC 2.x versions.
 ### Internal
 - Minor code improvements.
 
