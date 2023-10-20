@@ -1,5 +1,11 @@
 # Change log
 
+## [3.7.0] - 2023.10.19:
+### Added
+- Cache.
+### Internal
+- The code has been substantially improved.
+
 ## [3.6.0] - 2023.10.01:
 ### Fixed
 - Discount highlight.
