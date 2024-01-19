@@ -14,7 +14,7 @@ Compatible with OpenCart versions 2.2.x-3.x.
 * Hide product option prices.
 * Hide product ex-tax prices.
 * Custom message for products with no base prices (e.g., "Select options").
-* [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension compatibility.
+* **[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)** extension compatibility.
 * **Journal** theme compatibility (see related [addon](../journal)).
 * Does not modify system files (OCMOD).
 
@@ -25,11 +25,11 @@ Compatible with OpenCart versions 2.2.x-3.x.
 
 
 ## Links
-* [**Live Product|Ultimate**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460) on **OpenCart Marketplace**.
-* [**Live Product|Ultimate**](https://www.ocmod.space/live-product--ultimate) web page.
+* **[Live Product|Ultimate](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35460)** on **OpenCart Marketplace**.
+* **[Live Product|Ultimate](https://www.ocmod.space/live-product--ultimate)** web page.
 
 ## Related extensions
-* Use the equals prefix in product options with the [**Equal Sign**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383) extension.
-* Apply product special and discounts to its options, define [i]flat-pricing[/i] options, that are charged once regardless of product quantity, and more with the [**Enhanced Options**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391) module.
-* The [**Price Range**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331) module allows customers to see the minimum and maximum price of product with options.
-* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the [**Enhanced Specials**](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) module.
+* Use the equals prefix in product options with the **[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)** extension.
+* Apply product special and discounts to its options, define [i]flat-pricing[/i] options, that are charged once regardless of product quantity, and more with the **[Enhanced Options](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40391)** module.
+* The **[Price Range](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38331)** module allows customers to see the minimum and maximum price of product with options.
+* Simplify admin work when you need to apply special offers to all products of a certain manufacturer or category using the **[Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136)** module.
