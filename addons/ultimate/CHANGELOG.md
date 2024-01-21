@@ -1,5 +1,18 @@
 # Change log
 
+## [3.8.0] - 2024.01.16:
+### Changed
+- Words in the config store under language code.
+- Admin interface and internals.
+### Removed
+- OC 2.x support.
+
+## [3.7.0] - 2023.10.19:
+### Added
+- Cache.
+### Internal
+- The code has been substantially improved.
+
 ## [3.6.0] - 2023.10.01:
 ### Fixed
 - Discount highlight.

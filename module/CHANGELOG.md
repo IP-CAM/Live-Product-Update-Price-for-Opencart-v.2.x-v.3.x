@@ -3,7 +3,7 @@
 ## [3.8.0] - 2024.01.16:
 ### Changed
 - Words in the config store under language code.
-- Minor admin changes.
+- Admin interface and internals.
 ### Removed
 - OC 2.x support.
 
