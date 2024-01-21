@@ -3,7 +3,7 @@
 ## Warning
 REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS OF DATA, SO START ALL THE CHANGES BY BACKING UP THE DB AND FILES!
 
-## Install
+## Install/Update
 * Extensions → Installer → [Upload]: `live-product.ocmod.zip`
 * Extensions → Installer → [Upload]: `live-product--ultimate.ocmod.zip`
 * Extensions → Modifications → [Refresh]
