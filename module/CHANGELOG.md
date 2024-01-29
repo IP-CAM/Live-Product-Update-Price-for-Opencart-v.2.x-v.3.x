@@ -1,5 +1,9 @@
 # Change log
 
+## [3.8.1] - 2024.01.29:
+### Fixed
+- Cache system.
+
 ## [3.8.0] - 2024.01.16:
 ### Changed
 - Words in the config store under language code.
