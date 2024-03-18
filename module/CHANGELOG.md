@@ -1,5 +1,9 @@
 # Change log
 
+## [3.8.2] - 2024.03.18:
+### Internal
+- Cache system minor change.
+
 ## [3.8.1] - 2024.01.29:
 ### Fixed
 - Cache system.
