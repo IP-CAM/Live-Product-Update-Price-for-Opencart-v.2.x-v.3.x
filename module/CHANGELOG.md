@@ -6,7 +6,7 @@
 ### Fixed
 - Discounted prices (previously only discounts for two or more products were taken into account, now even for one).
 ### Internal
-- Minor code refactoring and improvemens.
+- Minor code refactoring and improvements.
 
 ## [3.8.2] - 2024.03.18:
 ### Internal
