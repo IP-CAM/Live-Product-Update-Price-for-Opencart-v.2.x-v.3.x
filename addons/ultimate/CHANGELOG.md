@@ -1,5 +1,12 @@
 # Change log
 
+## [3.9.0] - 2024.08.13:
+### Fixed
+- Weight displaying issue.
+- Out Of Stock message displaying issue.
+### Added
+- OC 2.3 support back.
+
 ## [3.8.0] - 2024.01.16:
 ### Changed
 - Words in the config store under language code.

@@ -1,5 +1,13 @@
 # Change log
 
+## [3.9.0] - 2024.08.19:
+### Added
+- OC 2.x support (even 2.1) is back!
+### Fixed
+- Discounted prices (previously only discounts for two or more products were taken into account, now even for one).
+### Internal
+- Minor code refactoring and improvemens.
+
 ## [3.8.2] - 2024.03.18:
 ### Internal
 - Cache system minor change.
