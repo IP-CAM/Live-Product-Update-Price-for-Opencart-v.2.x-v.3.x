@@ -5,7 +5,7 @@
 - Weight displaying issue.
 - Out Of Stock message displaying issue.
 ### Added
-- OC 2.3 support back.
+- OC 2.3 support is back!
 
 ## [3.8.0] - 2024.01.16:
 ### Changed
