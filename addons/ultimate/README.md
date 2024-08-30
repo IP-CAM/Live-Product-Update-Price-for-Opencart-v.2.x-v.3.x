@@ -1,22 +1,18 @@
 # Live Product|Ultimate
 
 ## Description
-**Live Product|Ultimate** is an OpenCart extension that allows to live update prices on the product page when a customer selects the product options and quantity. This is an advanced version of the **Live Product** extension.  
+**Live Product|Ultimate** is an OpenCart extension that aallows to display actual product prices, points and weight based on selected options or quantity. This is advanced version of the **Live Product** module.  
 Compatible with OpenCart versions 2.3-3.x.
 
 ## Features
-* Product price live update depending on selected options and quantity.
-* Additional product and options information:
-  - full option prices (i.e, base price +/- option price).
-  - option weight, points and available quantity.
-  - total weight of product and selected options.
-  - reward points amount.
-* Hide product option prices.
-* Hide product ex-tax prices.
-* Custom message for products with no base prices (e.g., "Select options").
-* **[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)** extension compatibility.
-* **Journal** theme compatibility (see related [addon](../journal)).
-* Does not modify system files (OCMOD).
+* Live product price, weight and points updating based on selected options and quantity.
+* Hiding option price prefixes to show full prices (base product price +/- option price).
+* Hiding option prices.
+* Hiding ex-tax prices.
+* Displaying option weight, points and available quantity.
+* Custom message for products without base prices, e.g., "Select product options" (on OC 3x versions only).
+* [b]Journal 3[/b] compatibility (see addons below).
+* OC core files are not changed (OCMOD).
 
 ## Live demo
 * Module [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/live_product).

@@ -5,7 +5,7 @@
 Compatible with OpenCart versions 2.1-3.x.
 
 ## Features
-* Live product price updating based on selected options and quantity.
+* Live product price updating based on selected options and quantity (base product price +/- option price).
 * Hiding option price prefixes to show full prices.
 * Hiding option prices.
 * Hiding ex-tax prices.

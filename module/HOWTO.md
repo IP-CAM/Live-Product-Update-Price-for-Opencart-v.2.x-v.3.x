@@ -4,20 +4,20 @@
 REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS OF DATA, SO START ALL THE CHANGES BY BACKING UP THE DB AND FILES!
 
 ## Install
-* Extensions → Installer → [Upload]: `live_price.ocmod.zip`
+* Extensions → Installer → [Upload]: `live_product.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/live_price → [Install]→ [Edit] → [Save]
+* Extensions → Extensions → Modules → /ocmod.space/live_product → [Install]→ [Edit] → [Save]
 
 ## Uninstall
-* Extensions → Extensions → Modules → /ocmod.space/live_price → [Uninstall]
-* Extensions → Installer → Install History → `live_price.ocmod.zip` → [Uninstall]
+* Extensions → Extensions → Modules → /ocmod.space/live_product → [Uninstall]
+* Extensions → Installer → Install History → `live_product.ocmod.zip` → [Uninstall]
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
 
 ## Update
-* Extensions → Installer → Install History → `live_price.ocmod.zip` → [Uninstall]
-* Extensions → Installer → [Upload]: `live_price.ocmod.zip`
+* Extensions → Installer → Install History → `live_product.ocmod.zip` → [Uninstall]
+* Extensions → Installer → [Upload]: `live_product.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → /ocmod.space/live_price → [Install] → [Edit] → [Save]
+* Extensions → Extensions → Modules → /ocmod.space/live_product → [Install] → [Edit] → [Save]
