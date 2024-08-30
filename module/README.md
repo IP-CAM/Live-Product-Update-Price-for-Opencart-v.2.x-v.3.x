@@ -1,18 +1,17 @@
 # Live Product
 
 ## Description
-**Live Product** is an OpenCart extension that allows to live update prices on the product page when a customer selects the product options and quantity.  
+**Live Product** is an OpenCart extension that allows to display actual product prices based on selected options or quantity.  
 Compatible with OpenCart versions 2.1-3.x.
 
 ## Features
-* Product price live update depending on selected options and quantity.
-* Display full option prices instead of show price prefixes.
-* Hide product option prices.
-* Hide product ex-tax prices.
-* Custom message for products with no base prices (e.g., "Select options").
-* **[Equal Sign](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=34383)** extension compatibility.
-* **Journal** theme compatibility (see related [addon](../addons/journal)).
-* Does not modify system files (OCMOD).
+* Live product price updating based on selected options and quantity.
+* Hiding option price prefixes to show full prices.
+* Hiding option prices.
+* Hiding ex-tax prices.
+* Custom message for products without base prices, e.g., "Select product options" (on OC 3x versions only).
+* **Journal 3** compatibility (see addons below).
+* OC core files are not changed (OCMOD).
 
 ## Live demo
 * Module [settings](https://demo.ocmod.space/a/admin/index.php?route=extension/module/live_product).
